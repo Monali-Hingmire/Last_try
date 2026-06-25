@@ -14,7 +14,7 @@ import io.cucumber.testng.CucumberOptions;
 				"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"},
 		tags="@radiobutton",
 		monochrome= true)
-public class Runner extends AbstractTestNGCucumberTests
+public class TestRunner extends AbstractTestNGCucumberTests
 {
 
 }
